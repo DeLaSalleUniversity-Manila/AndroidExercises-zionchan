@@ -11,9 +11,9 @@ compilation portfolio
 8. Email App - Grid Layout (https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-zionchan)
 9. Text-to-Speech App (https://github.com/DeLaSalleUniversity-Manila/text2speechdemo-zionchan)
 10. MyMusic App - Service (https://github.com/DeLaSalleUniversity-Manila/mymusicapp-zionchan)
-11. Splash Activity
-12. Menu Activity
-13. Help Activity
+11. Splash Activity (https://github.com/DeLaSalleUniversity-Manila/splashmenuhelpactivities-zionchan)
+12. Menu Activity (https://github.com/DeLaSalleUniversity-Manila/splashmenuhelpactivities-zionchan)
+13. Help Activity (https://github.com/DeLaSalleUniversity-Manila/splashmenuhelpactivities-zionchan)
 14. Green Target (https://github.com/DeLaSalleUniversity-Manila/greentarget-zionchan)
 15. Take a Picture (https://github.com/DeLaSalleUniversity-Manila/takeapicture-zionchan)
 16. Buttons Demo (https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-zionchan)
