@@ -96,7 +96,7 @@ compilation portfolio
 93. Octodroid (https://github.com/DeLaSalleUniversity-Manila/octodroid-zionchan)
 94. Flappy Bird (Clone) (https://github.com/DeLaSalleUniversity-Manila/flappydemo-zionchan)
 95. 9GAG (Unofficial App) (https://github.com/DeLaSalleUniversity-Manila/9gagunofficial-zionchan)
-96. MP Android Chart Demo 
+96. MP Android Chart Demo (https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-zionchan)
 97. Puzzle Collection 
 98. Super Jumper 
 99. Super Mario (Android Clone) 
