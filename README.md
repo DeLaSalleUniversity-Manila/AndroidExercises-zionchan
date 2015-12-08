@@ -93,7 +93,7 @@ compilation portfolio
 90. OpenGL ES 3.0 Demo 
 91. 2048 Game (https://github.com/DeLaSalleUniversity-Manila/2048-zionchan)
 92. Green Wall Game (https://github.com/DeLaSalleUniversity-Manila/greenwall-zionchan)
-93. Octodroid 
+93. Octodroid (https://github.com/DeLaSalleUniversity-Manila/octodroid-zionchan)
 94. Flappy Bird (Clone) (https://github.com/DeLaSalleUniversity-Manila/flappydemo-zionchan)
 95. 9GAG (Unofficial App) 
 96. MP Android Chart Demo 
