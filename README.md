@@ -1,6 +1,8 @@
 # AndroidExercises-zionchan
 compilation portfolio
 
+**31 Repo** :cold_sweat: :frowning: :disappointed:
+
 1. Hello World App Demo (https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-RgComendador) GROUPWORK
 2. Prime Number Game (https://github.com/DeLaSalleUniversity-Manila/primenumbergame-zionchan)
 3. Activity Lifecycle Introduction (https://github.com/DeLaSalleUniversity-Manila/activitylifecycleintroduction-zionchan)
