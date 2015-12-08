@@ -18,7 +18,7 @@ compilation portfolio
 15. Take a Picture (https://github.com/DeLaSalleUniversity-Manila/takeapicture-zionchan)
 16. Buttons Demo (https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-zionchan)
 17. Star Rating (https://github.com/DeLaSalleUniversity-Manila/starratingdemo-zionchan)
-18. Google Map Marker for DLSU 
+18. Google Map Marker for DLSU (https://github.com/DeLaSalleUniversity-Manila/googlemapsdemo-zionchan)
 19. Screen Slides (https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-zionchan)
 20. ViewPager with Text-to-Speech Demo (https://github.com/DeLaSalleUniversity-Manila/viewpagerwithtexttospeech-zionchan)
 21. Play Video (https://github.com/DeLaSalleUniversity-Manila/playvideo-zionchan)
@@ -95,7 +95,7 @@ compilation portfolio
 92. Green Wall Game (https://github.com/DeLaSalleUniversity-Manila/greenwall-zionchan)
 93. Octodroid (https://github.com/DeLaSalleUniversity-Manila/octodroid-zionchan)
 94. Flappy Bird (Clone) (https://github.com/DeLaSalleUniversity-Manila/flappydemo-zionchan)
-95. 9GAG (Unofficial App) 
+95. 9GAG (Unofficial App) (https://github.com/DeLaSalleUniversity-Manila/9gagunofficial-zionchan)
 96. MP Android Chart Demo 
 97. Puzzle Collection 
 98. Super Jumper 
